@@ -1,0 +1,19 @@
+def cub(num):
+    return num*num*num
+result0 = cub(245)
+print(result0)
+
+def sqr(num):
+    return num*num
+result1= sqr(4556)
+print(result1)
+
+def sum(num1,num2,num3):
+    return num1+num2+num3
+result2= sum(1997,1988,1954)
+print(result2)
+
+def sub(num1,num2):
+    return num1-num2
+result3= sub(2022,1997)
+print(result3)
